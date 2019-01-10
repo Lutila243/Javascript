@@ -1,2 +1,2 @@
 # javascript
-this are my Homeworks and labs
+these are my Homeworks and labs
